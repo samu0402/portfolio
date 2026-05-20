@@ -162,7 +162,7 @@ export default function Portfolio() {
             >
               <h3>Student Management System</h3>
 
-              <p>CRUD-based student management dashboard using React.</p>
+              <p>student management dashboard with admin panel</p>
             </div>
           </div>
         </section>
@@ -172,8 +172,8 @@ export default function Portfolio() {
           <h2 style={styles.sectionTitle}>Contact Me</h2>
 
           <p>Email: samikshaparit04902@gmail.com</p>
-          <p>LinkedIn: linkedin.com/in/samiksha</p>
-          <p>GitHub: github.com/samiksha</p>
+          <p>LinkedIn: linkedin.com/in/samiksha-parit08</p>
+          <p>GitHub: github.com/samu0402</p>
         </section>
 
         {/* Footer */}
