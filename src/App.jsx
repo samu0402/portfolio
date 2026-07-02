@@ -121,9 +121,12 @@ export default function Portfolio() {
                 e.currentTarget.style.boxShadow = "0 5px 15px rgba(0,0,0,0.1)";
               }}
             >
-              <h3>Recipe Finder App</h3>
+              <h3>DreamJob-FullStack Job Portal</h3>
 
-              <p>A React application to search recipes with API integration.</p>
+              <p>
+                Built end-to-end with React, Spring Boot, and MySQL. A complete
+                hiring platform from job listings to one-click applications
+              </p>
             </div>
 
             {/* Card 2 */}
@@ -139,11 +142,11 @@ export default function Portfolio() {
                 e.currentTarget.style.boxShadow = "0 5px 15px rgba(0,0,0,0.1)";
               }}
             >
-              <h3>Music Player</h3>
+              <h3>E-Commerce website</h3>
 
               <p>
-                A modern music player app with playlist and search
-                functionality.
+                A modern e-commerce web app where users can discover products,
+                add to cart, and place orders
               </p>
             </div>
 
